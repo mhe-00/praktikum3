@@ -15,3 +15,8 @@ Phi merupakan nilai konstanta di matematika sementara jari-jari merupakan jarak 
 ### program python menghitung luas & keliling lingkaran
 
 ![gambar](screenshot/gambar2.png)
+
+#### output setelah program dijalankan
+
+![gambar](screenshot/gambar3.png)
+
